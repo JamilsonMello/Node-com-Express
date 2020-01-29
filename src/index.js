@@ -12,7 +12,7 @@ const data = { user: [] }
 
 server.use((req, res, next) => {
     // MIDDLEWARE
-    // Aqui podemos fazer as verifcacoes necessarias
+    // Aqui podemos fazer as Verificações Necessárias
     
     return next()
 })
